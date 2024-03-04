@@ -30,21 +30,27 @@ resource "aws_security_group" "ES_security_group" {
   #this port for kafka
 
   ingress {
-    from_port   = 9200
-    to_port     = 9200
+    from_port   = 9092
+    to_port     = 9092
     protocol    = "tcp"
     cidr_blocks = ["0.0.0.0/0"]
   }
 
-  #this port for kibana
-
-  ingress {
-    from_port   = 5601
-    to_port     = 5601
+   ingress {
+    from_port   = 1024
+    to_port     = 65535
     protocol    = "tcp"
     cidr_blocks = ["0.0.0.0/0"]
   }
+
   
+  egress {
+    from_port        = 0
+    to_port          = 0
+    protocol         = "-1"
+    cidr_blocks      = ["0.0.0.0/0"]
+  }
+
   tags = {
     Name = var.SG_tag
   }
