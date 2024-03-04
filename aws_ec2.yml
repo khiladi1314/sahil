@@ -1,14 +1,9 @@
 ---
 plugin: aws_ec2
 regions:
-  - us-east-1
-#filters:
-#   tag:Environment:
-#    - Kafka
-#    - Zookeeper
-keyed_groups:
-    - key: tags.Environment
-      prefix: tag_Environment_
-      separator: ""
-hostnames:
-    - private-ip-address
+  - ap-southeast-1
+# filters:
+#   instance-state-code: 16
+filters:
+   tag:Name: kafka_private_slave
+
