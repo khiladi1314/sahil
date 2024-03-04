@@ -13,7 +13,7 @@ module "for_vpc_peering" {
     aws.jenkins = aws.jenkins
     aws.peer = aws.peer
   }
-  source = "./modules/vpc_peering"
+  source = "./vpc_peering"
   peer_vpc_id_created = module.for_vpc.vpc_output
   peer_vpc_cidr = var.root_vpc
   vpc_id_jenkins = var.root_vpc_id_jenkins
