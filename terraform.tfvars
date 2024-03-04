@@ -55,7 +55,7 @@ root_private_key = "kafka_private_key"
 
 root_private_instance_count_number = 1
 
-root_instance_ami = "ami-0fa377108253bf620"
+root_instance_ami = "ami-042372e11f401c031"
 
 root_private_instance_type = "t2.medium"
 
