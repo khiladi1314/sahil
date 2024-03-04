@@ -6,6 +6,19 @@ root_vpc = "10.0.0.0/16"
 
 root_vpc_tag = "kafka_vpc"
 
+############### for vpc peering ##########
+
+root_vpc_id_jenkins = "vpc-0e3056d8fcb0dc815" 
+
+jenkins_route_table_id = ["rtb-0672877b6fa9aa27e"]
+
+root_peer_owner_id = 362382172439
+
+root_vpc_id_jenkins_cidr= "172.31.0.0/16"
+
+peer_region = "ap-southeast-1"
+
+
 ################ for public/private subnet #################
 root_public_subnet_count_number = 1
 
