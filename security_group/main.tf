@@ -1,4 +1,4 @@
-resource "aws_security_group" "ES_security_group" {
+resource "aws_security_group" "kafka_security_group" {
   name = var.SG_name
   description = var.SG_description
   vpc_id = var.vpc_id_from_SG
