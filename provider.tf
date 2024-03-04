@@ -4,7 +4,7 @@ provider "aws" {
 
 provider "aws" {
   alias  = "jenkins"
-  region = "ap-south-1"
+  region = "us-east-1"
 }
 
 provider "aws" {
