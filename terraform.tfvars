@@ -8,11 +8,11 @@ root_vpc_tag = "kafka_vpc"
 
 ############### for vpc peering ##########
 
-root_vpc_id_jenkins = "vpc-0e3056d8fcb0dc815" 
+root_vpc_id_jenkins = "vpc-021cbb1850a6f0d43" 
 
-jenkins_route_table_id = ["rtb-0672877b6fa9aa27e"]
+jenkins_route_table_id = ["rtb-091c5c07c5fec17af"]
 
-root_peer_owner_id = 362382172439
+root_peer_owner_id = 970772940081
 
 root_vpc_id_jenkins_cidr= "172.31.0.0/16"
 
