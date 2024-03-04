@@ -1,5 +1,5 @@
 ---
-- hosts: tag_Environment_Kafka
+- hosts: aws_ec2
   remote_user: ubuntu
   become: yes
   roles:
