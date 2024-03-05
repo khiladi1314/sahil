@@ -1,7 +1,6 @@
 ---
 - name: installing kafka tool
   hosts: aws_ec2
-  remote_user: ubuntu
   become: yes
   roles:
     - ansible_kafka
