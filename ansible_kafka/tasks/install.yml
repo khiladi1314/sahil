@@ -1,4 +1,9 @@
 ---
+- name: installing java
+  apt: 
+    name: openjdk-11-jdk
+    state: present
+
 - name: Check For Kafka Installation..
   become: yes
   stat:
