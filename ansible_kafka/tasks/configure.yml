@@ -41,14 +41,9 @@
     name: zookeeper.service
     state: started
 
-
-- name: Start Kafka Service
-  hosts: kafka_servers
-  become: yes
-  tasks:
-    - name: Ensure Kafka service is started
-      systemd:
-        name: kafka.service
-        state: started
-        enabled: yes
+- name: Ensure Kafka service is started
+  systemd:
+    name: kafka.service
+    state: started
+    enabled: yes
 
