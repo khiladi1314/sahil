@@ -1,6 +1,7 @@
 ---
 - name: installing java
-  apt: 
+  apt:
+    update_cache: yes
     name: openjdk-11-jdk
     state: present
 
