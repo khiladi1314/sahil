@@ -52,8 +52,7 @@ What can be considered a successful workflow?
  |**Integration**|Once in the master, the code must be integrated into the company's internal environments branches, until reaching the production branch.|
  |**Deletion**|When being merged into the master, delete the branch where the task was developed leaving the repository more organized.|
  
-  ![image](https://github.com/khiladi1314/sahil/assets/152869573/5bc6782a-1844-4d71-b6d8-9c0031815c37)
-
+<img src="https://media.licdn.com/dms/image/C4E12AQGFb-Nwc5lxzw/article-inline_image-shrink_1500_2232/0/1620932390472?e=1717027200&v=beta&t=opDw2tHAXHnpfxDhWRhmvpNo6KxQrmcL3ZV1ZWQjuZg" width="45%" height="20%">
 
 ## GitLab Flow
 
