@@ -29,21 +29,21 @@ The purpose of this documentation is to guide software development teams in impl
 
 | Name | Description |
 | :--------: | --------- |
-|Real-time Updates| Receive instant notifications about CI operations, ensuring that team members are promptly informed about the status of builds, tests, and deployments.|
-|Enhanced Collaboration| Facilitates collaboration among team members by providing a centralized platform for sharing updates and discussing issues related to CI processes.|
-|Improved Transparency| Increases transparency within the team by providing visibility into the progress and outcomes of CI operations, fostering trust and accountability among team members.|
-|Timely Issue Resolution| Enables quick identification and resolution of issues by alerting team members to failed builds, test failures, or deployment errors as soon as they occur.|
-|Efficient Resource Allocation| Helps in optimizing resource allocation by notifying relevant stakeholders only when necessary, reducing unnecessary distractions and interruptions.|
+|**Real-time Updates**| Receive instant notifications about CI operations, ensuring that team members are promptly informed about the status of builds, tests, and deployments.|
+|**Enhanced Collaboration**| Facilitates collaboration among team members by providing a centralized platform for sharing updates and discussing issues related to CI processes.|
+|**Improved Transparency**| Increases transparency within the team by providing visibility into the progress and outcomes of CI operations, fostering trust and accountability among team members.|
+|**Timely Issue Resolution**| Enables quick identification and resolution of issues by alerting team members to failed builds, test failures, or deployment errors as soon as they occur.|
+|**Efficient Resource Allocation**| Helps in optimizing resource allocation by notifying relevant stakeholders only when necessary, reducing unnecessary distractions and interruptions.|
 
 ## Disadvantages
 
 | Name | Description |
 | :------: | -------- |
-|Notification Overload| Excessive notifications can lead to information overload, causing team members to become desensitized to important alerts or miss critical updates amidst the noise.|
-|Dependency on Notifications| Team members may become overly reliant on notifications, potentially leading to decreased vigilance in monitoring CI processes manually or proactively addressing issues.|
-|Configuration Complexity| Setting up and configuring the notification system may require a significant amount of time and effort, particularly if integration with existing CI/CD pipelines or customization of notification preferences is complex.|
-|False Positives/Negatives| Inaccurate or misleading notifications, such as false positives (incorrectly reporting success) or false negatives (failing to report actual failures), can undermine trust in the notification system and lead to confusion or complacency.|
-|Security Risks| Depending on the notification channels used (e.g., email, chat platforms), sensitive information included in notifications may be vulnerable to interception or unauthorized access, posing potential security risks.|
+|**Notification Overload**| Excessive notifications can lead to information overload, causing team members to become desensitized to important alerts or miss critical updates amidst the noise.|
+|**Dependency on Notifications**| Team members may become overly reliant on notifications, potentially leading to decreased vigilance in monitoring CI processes manually or proactively addressing issues.|
+|**Configuration Complexity**| Setting up and configuring the notification system may require a significant amount of time and effort, particularly if integration with existing CI/CD pipelines or customization of notification preferences is complex.|
+|**False Positives/Negatives**| Inaccurate or misleading notifications, such as false positives (incorrectly reporting success) or false negatives (failing to report actual failures), can undermine trust in the notification system and lead to confusion or complacency.|
+|**Security Risks**| Depending on the notification channels used (e.g., email, chat platforms), sensitive information included in notifications may be vulnerable to interception or unauthorized access, posing potential security risks.|
 
 ## Setup
 
