@@ -78,18 +78,20 @@ Click on allow button
 
 ### Step-VI
 
-Getting a message in the slack now click on add account
+- Getting a message in the slack now click on add account
+  
+![Screenshot from 2024-04-08 11-17-27](https://github.com/khiladi1314/sahil/assets/152869573/01c55c21-7cd4-4794-a419-2384e50a7f49)
 
 
 ### Step-VII
 
-Click on connect git hub account
+- Click on connect git hub account
 
 ![Screenshot from 2024-04-08 11-20-09](https://github.com/khiladi1314/sahil/assets/152869573/a270b1a9-deee-4393-ba41-593de29fe1b8)
 
 ### Step-VIII
 
-Click on authorize slack button
+- Click on authorize slack button
 
 ![Screenshot from 2024-04-08 11-21-20](https://github.com/khiladi1314/sahil/assets/152869573/704dfbe8-1eac-4dbf-9e0b-8cf65cd233fc)
 
@@ -112,10 +114,43 @@ Click on authorize slack button
 
 ### Step-XII
 
-- 
+- Now select github subscribe to get subscription of that repository which notification you want
 
+  ![Screenshot from 2024-04-08 12-26-04](https://github.com/khiladi1314/sahil/assets/152869573/93b5d413-62e6-4b7c-ae34-b58a4ce5e677)
 
+- Like here i have given subscription of my repository
 
+  ![Screenshot from 2024-04-08 13-14-43](https://github.com/khiladi1314/sahil/assets/152869573/6a6a0f26-c518-44d1-800e-8ec76be17603)
+
+### Step-XIII
+
+- Select the repository
+
+![Screenshot from 2024-04-08 13-17-29](https://github.com/khiladi1314/sahil/assets/152869573/642e7029-31a6-4841-aa45-16eba1a8a597)
+
+### Step-XIV
+
+- Click on install button
+
+![Screenshot from 2024-04-08 13-18-38](https://github.com/khiladi1314/sahil/assets/152869573/891a70ae-87ea-4861-96da-f8f744ba0b1e)
+
+### Step-XV
+
+- Enter your id password
+
+![Screenshot from 2024-04-08 13-20-12](https://github.com/khiladi1314/sahil/assets/152869573/9899e313-0442-47e7-b9d8-e9b956ca5e36)
+
+### Step-XVI
+
+- Do the change in file and and commit the change
+
+  ![Screenshot from 2024-04-08 13-30-02](https://github.com/khiladi1314/sahil/assets/152869573/bf6db57e-3048-4581-90fd-eff0036912a2)
+
+### Step-XVII
+
+- Getting notification of change in file
+
+  ![Screenshot from 2024-04-08 13-28-31](https://github.com/khiladi1314/sahil/assets/152869573/7a54938b-3c67-4e26-81dd-02fc83419983)
 
 
 
