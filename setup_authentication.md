@@ -34,9 +34,46 @@ Welcome to the concise guide on setting up authentication in Version Control Sys
 
 - In the upper-right corner of any page, click your profile photo, then click Settings.
 
-  
+  ![Screenshot from 2024-04-09 12-53-22](https://github.com/khiladi1314/sahil/assets/152869573/501840d6-3682-4d37-9d0c-ce936d537772)
 
 
+- In the "Access" section of the sidebar, click Password and authentication.  
+
+ ![image](https://github.com/khiladi1314/sahil/assets/152869573/e333e00c-8b19-493c-a495-e78efcd83731)
+
+- In the "Two-factor authentication" section of the page, click Enable two-factor authentication.
+
+![Screenshot from 2024-04-09 12-36-19](https://github.com/khiladi1314/sahil/assets/152869573/c8538a47-6e95-4638-9368-18a98a85cf08)
+
+- After you click Enable two-factor authentication on you'll get to see QR to scan using authenticator and follow the steps to setup.
+
+  ![Screenshot from 2024-04-09 12-37-41](https://github.com/khiladi1314/sahil/assets/152869573/07a0b7d0-7d08-444e-a7fb-ef68a2658c36)
+
+- Now Scan the QR code with your mobile device's app. After scanning, the app displays a six-digit code that you can enter on GitHub.
+
+- The TOTP application saves your account on GitHub.com and generates a new authentication code every few seconds. On GitHub, type the code into the field under "Verify the code from the app".
+
+  ![image](https://github.com/khiladi1314/sahil/assets/152869573/de2538a3-2e07-4e0c-9bfb-46d0cbbfd7a3)
+
+- Under "Save your recovery codes", click Download to download your recovery codes to your device. Save them to a secure location because your recovery codes can help you get back into your account if you lose access
+
+  ![Screenshot from 2024-04-09 12-44-43](https://github.com/khiladi1314/sahil/assets/152869573/1622ee94-9194-4392-a704-0b2b22a572f1)
+
+- After saving your two-factor recovery codes, click I have saved my recovery codes to enable two-factor authentication for your account.
+
+  ![Screenshot from 2024-04-09 12-45-45](https://github.com/khiladi1314/sahil/assets/152869573/a8927710-9398-46e8-bd54-288548e08475)
+
+- Now get sign-out and lets login again.
+
+  ![Screenshot from 2024-04-09 12-58-39](https://github.com/khiladi1314/sahil/assets/152869573/dec3ba3e-6828-4b0b-b378-71f579dce5e1)
+
+- After this you will going too see an autheticate code page where you will have to enter that code which will come on your authenticator app.
+
+  ![Screenshot from 2024-04-09 13-00-36](https://github.com/khiladi1314/sahil/assets/152869573/df3292fe-cc31-4f2e-a63f-cd5a9cc54076)
+
+- Then you will going to see that you are login successfully
+
+![Screenshot from 2024-04-09 13-03-49](https://github.com/khiladi1314/sahil/assets/152869573/1da0e693-423e-4de1-84d0-2efafe7263c2)
 
 ## Advantages
 
@@ -63,12 +100,13 @@ Welcome to the concise guide on setting up authentication in Version Control Sys
 ## Contact Information
 |Name	|Email address 📧|
 | --------------- | -------------- |
-|**sahil gupta**       |	[sahil.gupta.snaatak@mygurukulam.co](https://www.gmail.com/)|
+|**sahil gupta** |	[sahil.gupta.snaatak@mygurukulam.co](https://www.gmail.com/)|
 
 ## Reference
 |Description	|link|
-| :---------------: | :--------------: |
-
+| --------------- | :--------------: |
+|**More about authentication**| https://github.com/OT-MyGurukulam/Snaatak_p8_Documentation/blob/main/VCS/VCS%20Authentication/VCS_Authentication%20POC.md|
+|**video to learn how to setup authentication**|https://youtu.be/CHIys2BQT38?si=0AU-IDiwrxNPXO33|
 
 
 
