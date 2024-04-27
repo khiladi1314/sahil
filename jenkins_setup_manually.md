@@ -1,3 +1,6 @@
+![image](https://github.com/khiladi1314/sahil/assets/152869573/5447b794-a2c1-40f1-8b7c-98c1364c371e)
+
+
 # Postgresql Setup Manually (Security Group and Instance)
 
 | Author | Created on | Version | Last updated by | Last edited on |
@@ -78,6 +81,8 @@ The purpose of setting up PostgreSQL, an open-source relational database managem
 ## Infra-Diagram
 
 ![Screenshot from 2024-04-27 12-19-03](https://github.com/khiladi1314/sahil/assets/152869573/0a7861ce-1319-4aa7-bad6-30bd382ade8e)
+
+This AWS architecture diagram depicts a Virtual Private Cloud (VPC) setup with a public subnet, a private subnet, two route tables, an internet gateway, a NAT gateway, a jump instance, and a private instance. The public subnet includes the internet gateway for external communication, while the private subnet hosts the private instance for PostgreSQL installation. The NAT gateway enables the private instance to access the internet securely. The jump instance serves as a bastion host for secure access to the private instance. This setup ensures a secure environment for deploying PostgreSQL, with the jump instance providing a gateway for managing and accessing private resources.
 
 
 ## Advantages
